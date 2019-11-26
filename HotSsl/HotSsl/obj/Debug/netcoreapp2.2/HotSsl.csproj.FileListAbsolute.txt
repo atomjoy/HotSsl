@@ -1,0 +1,11 @@
+/root/HotSsl/obj/Debug/netcoreapp2.2/HotSsl.csprojAssemblyReference.cache
+/root/HotSsl/obj/Debug/netcoreapp2.2/HotSsl.csproj.CoreCompileInputs.cache
+/root/HotSsl/obj/Debug/netcoreapp2.2/HotSsl.AssemblyInfoInputs.cache
+/root/HotSsl/obj/Debug/netcoreapp2.2/HotSsl.AssemblyInfo.cs
+/root/HotSsl/bin/Debug/netcoreapp2.2/HotSsl.deps.json
+/root/HotSsl/bin/Debug/netcoreapp2.2/HotSsl.runtimeconfig.json
+/root/HotSsl/bin/Debug/netcoreapp2.2/HotSsl.runtimeconfig.dev.json
+/root/HotSsl/bin/Debug/netcoreapp2.2/HotSsl.dll
+/root/HotSsl/bin/Debug/netcoreapp2.2/HotSsl.pdb
+/root/HotSsl/obj/Debug/netcoreapp2.2/HotSsl.dll
+/root/HotSsl/obj/Debug/netcoreapp2.2/HotSsl.pdb
